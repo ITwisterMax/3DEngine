@@ -1,0 +1,22 @@
+# Window config
+WINDOW_CAPTION = '3D Engine'
+WINDOW_WIDTH = 1600
+WINDOW_HEIGHT = 900
+WINDOW_FPS = 60
+
+# Color config
+WINDOW_COLOR = 'Black'
+LINE_COLOR = 'White'
+
+# File config
+PATH_TO_OBJECT = 'resources/fox.obj'
+
+# Projetion config
+PROJECTION_NEAR_PLANE = 0.1
+PROJECTION_FAR_PLANE = 100
+
+# Control config
+CAMERA_POSITON = [-5, 5, -50]
+CAMERA_MOVING_SPEED = 0.2
+CAMERA_ROTATION_SPEED = 0.02
+OBJECT_ROTATION_SPEED = 0.025
